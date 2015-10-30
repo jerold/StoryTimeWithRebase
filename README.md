@@ -14,7 +14,7 @@ Add staged changes to the previous commit, allows you to also update commit mess
 git commit --amend
 ```
 
-Rewrite history, allows us to change the history of commits between <parent> and HEAD
+Rewrite history, allows us to change the history of commits between parent and HEAD
 Operations:
 - squash : merge commit with the one above it, can update commit message
 - fixup  : merge commit with the one above it, use commit message from above commit
