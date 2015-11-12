@@ -3,3 +3,4 @@ It was many and many a year ago,
 That a maiden there lived whom you may know
  By the name of Annabel Lee;
 And this maiden she lived with no other thought
+ Than to love and be loved by me.
